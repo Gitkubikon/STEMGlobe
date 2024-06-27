@@ -1,0 +1,387 @@
+Country,Female_STEM_Graduates_Percentage,University,Longitude,Latitude,Estimated_Student_Count
+Israel,29.23401,Technion - Israel Institute of Technology,35.023129,32.776778,30814
+Israel,29.23401,Hebrew University of Jerusalem,35.213711,31.768318,38453
+Israel,29.23401,Tel Aviv University,34.804389,32.113314,15344
+Israel,29.23401,Weizmann Institute of Science,34.813778,31.906492,39364
+Israel,29.23401,Bar-Ilan University,34.842239,32.068424,17921
+Samoa,18.18182,National University of Samoa,-171.7765,-13.8291,38070
+Liberia,57.54509,University of Liberia,-10.760523,6.287604,23097
+Liberia,57.54509,Cuttington University,-9.482249,6.841924,29899
+Liberia,57.54509,Stella Maris Polytechnic,-10.765945,6.287708,49923
+Sierra Leone,58.97436,Fourah Bay College,-13.233056,8.483889,41901
+Sierra Leone,58.97436,Njala University,-12.794707,8.106311,31696
+Sierra Leone,58.97436,University of Makeni,-12.2926,9.3053,15882
+Comoros,0.0,University of Comoros,43.2551,-11.689,38165
+Comoros,0.0,Comoros Higher Institute of Technology,43.2551,-11.689,18634
+Comoros,0.0,Higher Institute of Management and International Trade,43.2551,-11.689,25809
+Chad,4.08163,University of N'Djamena,15.0559,12.1229,18049
+Chad,4.08163,King Faisal University in Chad,15.0399,12.1067,28415
+Venezuela,42.80571,Central University of Venezuela,-66.8904,10.490847,42189
+Venezuela,42.80571,Simón Bolívar University,-66.879833,10.403292,49582
+Venezuela,42.80571,University of the Andes,-71.114503,8.418899,8025
+Iraq,18.52159,University of Baghdad,44.373293,33.273524,3344
+Iraq,18.52159,University of Basrah,47.776308,30.514793,33550
+Iraq,18.52159,University of Mosul,43.141519,36.366206,33418
+Iraq,18.52159,University of Kufa,44.374894,32.046265,21186
+Saint Vincent and the Grenadines,0.0,Saint Vincent and the Grenadines Community College,-61.21,13.1445,1506
+Uganda,25.68259,Makerere University,32.5711,0.3292,13042
+Uganda,25.68259,Kyambogo University,32.6332,0.3571,23602
+Uganda,25.68259,Mbarara University of Science and Technology,30.6575,-0.6135,43083
+Hong Kong,25.32672,The University of Hong Kong,114.1374,22.2849,23962
+Hong Kong,25.32672,The Chinese University of Hong Kong,114.2077,22.4191,7365
+Hong Kong,25.32672,The Hong Kong University of Science and Technology,114.2656,22.3364,10469
+American Samoa,18.18182,American Samoa Community College,-170.702,-14.271,36213
+Jordan,40.27633,University of Jordan,35.8722,32.0134,36990
+Jordan,40.27633,Jordan University of Science and Technology,35.991,32.4962,9722
+Jordan,40.27633,Yarmouk University,35.8562,32.5378,36253
+Solomon Islands,0.0,Solomon Islands National University,160.0545,-9.4318,20013
+Cayman Islands,32.91139,University College of the Cayman Islands,-81.3674,19.2866,18204
+Sao Tome and Principe,0.0,University of São Tomé and Príncipe,6.7333,0.3365,23055
+Tuvalu,0.0,University of the South Pacific,178.4419,-18.1426,31093
+Nauru,0.0,University of the South Pacific Nauru Campus,166.916,-0.5351,44965
+British Virgin Islands,56.41026,H. Lavity Stoutt Community College,-64.6235,18.43,1823
+Ethiopia,17.32012,Addis Ababa University,38.7613,9.038,2218
+Ethiopia,17.32012,Jimma University,36.8333,7.6667,19495
+Ethiopia,17.32012,Mekelle University,39.4753,13.4967,15492
+Gibraltar,0.0,University of Gibraltar,-5.3526,36.1447,24774
+Argentina,43.46254,University of Buenos Aires,-58.373056,-34.599722,22848
+Argentina,43.46254,National University of La Plata,-57.954491,-34.921456,36783
+Argentina,43.46254,National University of Córdoba,-64.183319,-31.417339,3330
+Barbados,40.50279,University of the West Indies,-59.6236,13.1325,33491
+Barbados,40.50279,Cave Hill Campus,-59.6236,13.1325,23836
+Lebanon,43.25716,American University of Beirut,35.4789,33.8964,42406
+Lebanon,43.25716,Lebanese American University,35.4785,33.896,44589
+Lebanon,43.25716,Saint Joseph University,35.4944,33.8886,40138
+Liechtenstein,40.67797,University of Liechtenstein,9.5215,47.141,22417
+Gambia,45.65712,University of The Gambia,-16.5928,13.4576,6015
+Iceland,35.23035,University of Iceland,-21.8954,64.1355,35998
+Iceland,35.23035,Reykjavik University,-21.8174,64.127,49243
+Kiribati,0.0,University of the South Pacific,178.4419,-18.1426,42477
+Kiribati,0.0,Kiribati Campus,173.0281,-1.3186,41774
+Guyana,27.20307,University of Guyana,-58.1627,6.8013,39905
+Antigua and Barbuda,33.33333,University of the West Indies,-59.6236,13.1325,24721
+Antigua and Barbuda,33.33333,Five Islands Campus,-61.8456,17.1175,15290
+Turkey,34.68608,Middle East Technical University,32.8131,39.9019,23497
+Turkey,34.68608,Bilkent University,32.7484,39.8721,3001
+Turkey,34.68608,Koç University,29.0484,41.2061,41047
+Sudan,47.18265,University of Khartoum,32.5254,15.6085,13296
+Sudan,47.18265,Sudan University of Science and Technology,32.5537,15.5677,42896
+Belize,41.83007,University of Belize,-88.1886,17.4986,15122
+Belize,41.83007,Galen University,-89.041,17.1683,6714
+Sint Maarten (Dutch part),75.0,American University of the Caribbean,-63.0617,18.0626,45224
+Benin,54.88478,University of Abomey-Calavi,2.355,6.4483,36362
+Benin,54.88478,University of Parakou,2.6095,9.3389,6765
+Angola,38.41584,Agostinho Neto University,13.2894,-8.839,10668
+Angola,38.41584,Catholic University of Angola,13.2332,-8.8356,46289
+Zimbabwe,28.79315,University of Zimbabwe,31.0507,-17.7878,27415
+Zimbabwe,28.79315,National University of Science and Technology,28.6265,-20.132,4288
+Zimbabwe,28.79315,Midlands State University,29.8059,-19.4592,25529
+North Korea,19.26917,Kim Il-sung University,125.7543,39.0338,44719
+North Korea,19.26917,Kim Chaek University of Technology,125.763,39.0382,23312
+Eswatini,0.0,University of Eswatini,31.4628,-26.529,30670
+Guatemala,34.6914,University of San Carlos of Guatemala,-90.5199,14.609,1809
+Guatemala,34.6914,Universidad del Valle de Guatemala,-90.5153,14.6014,3555
+Cambodia,16.67996,Royal University of Phnom Penh,104.915,11.5679,27255
+Cambodia,16.67996,National University of Management,104.9261,11.5541,38775
+Luxembourg,27.57475,University of Luxembourg,6.0725,49.504,3875
+United Kingdom,38.10313,University of Oxford,-1.254367,51.754816,22443
+United Kingdom,38.10313,University of Cambridge,0.114908,52.204267,38569
+United Kingdom,38.10313,Imperial College London,-0.174877,51.4988,5339
+United Kingdom,38.10313,London School of Economics,-0.1161,51.5145,18561
+Austria,25.9026,University of Vienna,16.3602,48.2132,25927
+Austria,25.9026,Graz University of Technology,15.4504,47.0694,17258
+Austria,25.9026,Vienna University of Technology,16.3693,48.198,35734
+Thailand,30.13622,Chulalongkorn University,100.5326,13.7367,40992
+Thailand,30.13622,Mahidol University,100.3226,13.7934,11602
+Thailand,30.13622,Chiang Mai University,98.953,18.7965,41651
+Italy,39.52253,University of Bologna,11.354778,44.496136,13029
+Italy,39.52253,Sapienza University of Rome,12.516144,41.903899,17776
+Italy,39.52253,University of Milan,9.188279,45.462609,32032
+Syria,49.50636,University of Damascus,36.2765,33.5138,34157
+Syria,49.50636,University of Aleppo,37.1343,36.2021,25175
+Syria,49.50636,Tishreen University,35.7895,35.5513,26386
+Kenya,30.72713,University of Nairobi,36.8172,-1.2864,40785
+Kenya,30.72713,Kenyatta University,36.9275,-1.1795,36066
+Kenya,30.72713,Moi University,35.2961,0.2967,10577
+Democratic Republic of Congo,25.09538,University of Kinshasa,15.311471,-4.421931,20062
+Democratic Republic of Congo,25.09538,University of Lubumbashi,27.48444,-11.65556,39407
+Ecuador,29.22662,Pontifical Catholic University of Ecuador,-78.501,-0.2112,15812
+Ecuador,29.22662,University of San Francisco de Quito,-78.486,-0.1866,19483
+Ecuador,29.22662,National Polytechnic School,-78.5033,-0.2107,28478
+Ireland,29.00194,Trinity College Dublin,-6.2546,53.3438,38810
+Ireland,29.00194,University College Dublin,-6.2248,53.308,16504
+Ireland,29.00194,National University of Ireland,-9.0568,53.2796,41698
+Ireland,29.00194,Galway,-9.0568,53.2796,9284
+Egypt,36.89891,Cairo University,31.2086,30.0273,24239
+Egypt,36.89891,Alexandria University,29.9187,31.2001,18826
+Egypt,36.89891,Ain Shams University,31.287,30.0771,37535
+Cuba,39.88868,University of Havana,-82.3642,23.132,23215
+Cuba,39.88868,Central University of Las Villas,-79.9667,22.4,44768
+Cuba,39.88868,University of Oriente,-75.826,20.0183,44468
+Aruba,40.0,University of Aruba,-70.027,12.5209,13765
+Eritrea,27.80749,University of Asmara,38.9251,15.3229,37740
+Eritrea,27.80749,Eritrea Institute of Technology,38.9956,15.2919,24483
+Canada,31.4295,University of Toronto,-79.395656,43.662892,34884
+Canada,31.4295,University of British Columbia,-123.245993,49.260872,10320
+Canada,31.4295,McGill University,-73.5772,45.5048,2062
+Panama,43.22296,University of Panama,-79.533,8.9833,7569
+Panama,43.22296,Santa María La Antigua Catholic University,-79.524,8.9875,41073
+Panama,43.22296,Technological University of Panama,-79.5364,8.9936,8114
+Vietnam,36.50885,Vietnam National University,105.8542,21.0285,49922
+Vietnam,36.50885,Hanoi,105.8542,21.0285,34235
+Vietnam,36.50885,Ho Chi Minh City University of Technology,106.6822,10.7629,10227
+Vietnam,36.50885,Hanoi University of Science and Technology,105.843,21.0064,24152
+France,31.80564,Sorbonne University,2.344457,48.847061,35555
+France,31.80564,École Polytechnique,2.213262,48.712049,14586
+France,31.80564,University of Paris,2.3387,48.846222,29645
+Puerto Rico,38.50121,University of Puerto Rico,-66.0497,18.4068,6380
+Puerto Rico,38.50121,Interamerican University of Puerto Rico,-66.0567,18.3883,45826
+United States,33.98544,Harvard University,-71.1167,42.377,24539
+United States,33.98544,Massachusetts Institute of Technology,-71.0942,42.3601,41719
+United States,33.98544,Stanford University,-122.1697,37.4275,30151
+Romania,41.21575,University of Bucharest,26.0963,44.4396,40318
+Romania,41.21575,Babes-Bolyai University,23.5899,46.7694,23345
+Romania,41.21575,Alexandru Ioan Cuza University,27.5745,47.1737,18732
+Norway,28.46429,University of Oslo,10.723,59.939,34825
+Norway,28.46429,Norwegian University of Science and Technology,10.395,63.422,12428
+Norway,28.46429,University of Bergen,5.322,60.387,8538
+Bulgaria,36.87189,Sofia University,23.332,42.6956,21783
+Bulgaria,36.87189,Technical University of Sofia,23.3618,42.6568,15849
+Bulgaria,36.87189,University of National and World Economy,23.3475,42.6661,24798
+Switzerland,22.31547,ETH Zurich,8.5417,47.3769,5621
+Switzerland,22.31547,University of Zurich,8.5414,47.3744,42960
+Switzerland,22.31547,University of Geneva,6.1432,46.2044,17751
+North Macedonia,47.38186,Saints Cyril and Methodius University of Skopje,21.4254,41.9981,21039
+North Macedonia,47.38186,South East European University,21.4349,41.9973,34939
+North Macedonia,47.38186,University of Tetova,20.9717,42.0095,18082
+Czechia,35.56827,Charles University,14.4378,50.0755,17525
+Czechia,35.56827,Czech Technical University in Prague,14.3916,50.1035,33093
+Czechia,35.56827,Masaryk University,16.6083,49.2104,35615
+Estonia,38.37799,University of Tartu,26.729,58.3777,14918
+Estonia,38.37799,Tallinn University of Technology,24.6645,59.3967,48212
+Estonia,38.37799,Estonian University of Life Sciences,26.7101,58.375,27616
+Denmark,34.24926,University of Copenhagen,12.5683,55.6761,16421
+Denmark,34.24926,Aarhus University,10.2036,56.167,36899
+Denmark,34.24926,Technical University of Denmark,12.524,55.7867,19281
+Hungary,31.6804,Eötvös Loránd University,19.056,47.4884,39494
+Hungary,31.6804,University of Szeged,20.1414,46.253,21046
+Hungary,31.6804,Budapest University of Technology and Economics,19.0549,47.477,40684
+Portugal,37.76102,University of Lisbon,-9.1847,38.7525,10680
+Portugal,37.76102,University of Porto,-8.6091,41.1523,4544
+Portugal,37.76102,University of Coimbra,-8.4251,40.2101,20561
+Brazil,36.64406,University of São Paulo,-46.730798,-23.561399,20328
+Brazil,36.64406,University of Campinas,-47.064719,-22.815619,31000
+Brazil,36.64406,Federal University of Rio de Janeiro,-43.223178,-22.862149,20582
+Poland,43.36165,University of Warsaw,21.0158,52.2394,44287
+Poland,43.36165,Jagiellonian University,19.945,50.0647,2965
+Poland,43.36165,Warsaw University of Technology,21.007,52.2215,15192
+Belgium,25.83196,KU Leuven,4.7009,50.8779,14350
+Belgium,25.83196,Ghent University,3.7278,51.0466,18748
+Belgium,25.83196,Université catholique de Louvain,4.6156,50.6692,2351
+Iran,31.16248,University of Tehran,51.3957,35.7023,1173
+Iran,31.16248,Sharif University of Technology,51.3515,35.7036,24962
+Iran,31.16248,Amirkabir University of Technology,51.407,35.7013,35784
+Philippines,36.25297,University of the Philippines,121.0645,14.6549,7410
+Philippines,36.25297,Ateneo de Manila University,121.074,14.6407,7702
+Philippines,36.25297,De La Salle University,120.993,14.5648,8316
+Peru,47.80991,Pontifical Catholic University of Peru,-77.0791,-12.0683,38511
+Peru,47.80991,University of Lima,-77.046,-12.088,23758
+Peru,47.80991,National University of San Marcos,-77.0282,-12.0432,30535
+Dominican Republic,39.98837,Pontificia Universidad Católica Madre y Maestra,-70.6838,19.4451,8458
+Dominican Republic,39.98837,Universidad Autónoma de Santo Domingo,-69.9112,18.4663,1125
+Dominican Republic,39.98837,Universidad Iberoamericana,-69.9394,18.4834,20315
+Germany,27.55567,Ludwig Maximilian University of Munich,11.580271,48.150775,6183
+Germany,27.55567,Heidelberg University,8.672434,49.417632,41448
+Germany,27.55567,Technical University of Munich,11.66722,48.26269,44422
+Namibia,42.49578,University of Namibia,17.0796,-22.6112,39266
+Namibia,42.49578,Namibia University of Science and Technology,17.0732,-22.5591,39039
+South Korea,25.21585,Seoul National University,126.951905,37.459882,17984
+South Korea,25.21585,Korea Advanced Institute of Science and Technology,127.365611,36.370497,5640
+South Korea,25.21585,Yonsei University,126.938573,37.565785,20646
+Finland,27.40048,University of Helsinki,24.9402,60.1692,36721
+Finland,27.40048,Aalto University,24.83,60.1857,9792
+Finland,27.40048,Tampere University,23.7764,61.495,28298
+Maldives,10.56338,Maldives National University,73.5093,4.1748,1616
+Congo,20.80925,Marien Ngouabi University,15.2777,-4.2661,4687
+Slovakia,35.22112,Comenius University,17.0733,48.1519,24981
+Slovakia,35.22112,Slovak University of Technology,17.1145,48.152,42059
+Slovakia,35.22112,University of Žilina,18.7411,49.2231,3200
+Malta,27.84946,University of Malta,14.4843,35.9033,8928
+Mauritania,28.85748,University of Nouakchott,-15.9785,18.0735,14075
+Mauritius,36.02903,University of Mauritius,57.4972,-20.2348,30489
+Mauritius,36.02903,Mauritius Institute of Education,57.4895,-20.2323,8848
+United Arab Emirates,41.48553,United Arab Emirates University,55.7443,24.2035,43563
+United Arab Emirates,41.48553,Khalifa University,54.6064,24.418,11131
+South Africa,42.75694,University of Cape Town,18.4607,-33.957,26111
+South Africa,42.75694,University of the Witwatersrand,28.0303,-26.1908,30380
+South Africa,42.75694,Stellenbosch University,18.8644,-33.9328,16052
+Morocco,45.3156,Mohammed V University,-6.8361,34.0167,10034
+Morocco,45.3156,Hassan II University,-7.6355,33.5581,22473
+Morocco,45.3156,Al Akhawayn University,-5.1126,33.5231,24924
+Mexico,30.62815,National Autonomous University of Mexico,-99.1794,19.3244,46283
+Mexico,30.62815,Monterrey Institute of Technology and Higher Education,-100.2893,25.6514,41376
+Slovenia,33.32192,University of Ljubljana,14.5051,46.0511,1921
+Slovenia,33.32192,University of Maribor,15.6384,46.558,24572
+Australia,32.07578,University of Melbourne,144.961369,-37.796363,49013
+Australia,32.07578,Australian National University,149.118667,-35.277777,10003
+Australia,32.07578,University of Sydney,151.187346,-33.888594,47397
+Chile,18.82858,University of Chile,-70.6624,-33.4577,10380
+Chile,18.82858,Pontifical Catholic University of Chile,-70.6452,-33.4418,35913
+Chile,18.82858,University of Santiago,,,12115
+Chile,18.82858,Chile,,,15950
+Sweden,35.47829,Lund University,13.191,55.7047,30404
+Sweden,35.47829,Uppsala University,17.6469,59.8577,5205
+Sweden,35.47829,Stockholm University,18.057,59.362,31780
+New Zealand,34.96016,University of Auckland,174.769,-36.8523,18314
+New Zealand,34.96016,Victoria University of Wellington,174.7681,-41.2905,19167
+New Zealand,34.96016,University of Otago,170.514,-45.865,13667
+Greece,40.08756,National and Kapodistrian University of Athens,23.7275,37.9838,48765
+Greece,40.08756,Aristotle University of Thessaloniki,22.9444,40.6401,6356
+Greece,40.08756,University of Patras,21.7868,38.2833,18389
+Latvia,31.133,University of Latvia,24.1052,56.9496,39231
+Latvia,31.133,Riga Technical University,24.1,56.9506,5392
+Latvia,31.133,Latvian University of Agriculture,23.7232,56.6536,35159
+Cyprus,38.26274,University of Cyprus,33.4114,35.1444,18731
+Cyprus,38.26274,Cyprus University of Technology,33.0425,34.675,16881
+Cyprus,38.26274,European University Cyprus,33.3328,35.1575,48989
+Netherlands,29.29293,University of Amsterdam,4.9554,52.3562,27895
+Netherlands,29.29293,Delft University of Technology,4.3733,52.0017,43462
+Netherlands,29.29293,Utrecht University,5.1214,52.0907,42072
+Croatia,38.91309,University of Zagreb,15.9785,45.8128,12501
+Croatia,38.91309,University of Split,16.4402,43.5081,9314
+Croatia,38.91309,University of Rijeka,14.4422,45.3271,9539
+Uruguay,43.96355,University of the Republic,-56.191,-34.9065,21691
+Uruguay,43.96355,Catholic University of Uruguay,-56.1645,-34.9011,48903
+Singapore,34.26117,National University of Singapore,103.7764,1.2966,5268
+Singapore,34.26117,Nanyang Technological University,103.6831,1.3483,33137
+Singapore,34.26117,Singapore Management University,103.85,1.2966,29461
+Spain,29.55581,University of Barcelona,2.1734,41.3851,31770
+Spain,29.55581,Complutense University of Madrid,-3.7266,40.4522,40612
+Spain,29.55581,Autonomous University of Madrid,-3.696,40.5453,16235
+Lithuania,29.59471,Vilnius University,25.2797,54.6872,38064
+Lithuania,29.59471,Kaunas University of Technology,23.9125,54.8985,5712
+Lithuania,29.59471,Vytautas Magnus University,23.9122,54.8984,15936
+Cameroon,32.27844,University of Yaoundé I,11.5021,3.848,7472
+Cameroon,32.27844,University of Buea,9.256,4.1597,26099
+Burundi,18.16911,University of Burundi,29.3619,-3.3822,45482
+Grenada,40.94488,St. George's University,-61.7692,12.0011,21481
+Albania,46.65349,University of Tirana,19.8203,41.3317,18439
+Albania,46.65349,Polytechnic University of Tirana,19.8189,41.3275,24136
+Albania,46.65349,Epoka University,19.7218,41.384,32145
+Uzbekistan,24.60623,National University of Uzbekistan,69.2495,41.2995,39708
+Uzbekistan,24.60623,Tashkent State Technical University,69.281,41.3275,33197
+Uzbekistan,24.60623,Westminster International University in Tashkent,69.2758,41.3383,8348
+Honduras,37.78616,National Autonomous University of Honduras,-87.1767,14.0667,32701
+Honduras,37.78616,Central American Technological University,-87.1921,14.0723,40265
+Honduras,37.78616,Catholic University of Honduras,-87.1856,14.0818,34574
+Ghana,19.76201,University of Ghana,-0.1869,5.6508,15256
+Ghana,19.76201,Kwame Nkrumah University of Science and Technology,-1.5714,6.6746,45111
+Ghana,19.76201,University of Cape Coast,-1.2983,5.1114,33266
+Qatar,47.57709,Qatar University,51.4908,25.3752,5715
+Qatar,47.57709,Carnegie Mellon University in Qatar,51.4395,25.3165,23924
+Ukraine,28.78557,Taras Shevchenko National University of Kyiv,30.5174,50.4434,1472
+Ukraine,28.78557,National Technical University of Ukraine,30.4573,50.4489,18580
+Mozambique,29.2567,Eduardo Mondlane University,32.5892,-25.9564,31650
+Myanmar,60.76428,University of Yangon,96.1501,16.7987,2840
+Myanmar,60.76428,Mandalay University,96.0836,21.9738,40569
+Bahrain,41.21339,University of Bahrain,50.1971,26.2163,45014
+Bahrain,41.21339,Arabian Gulf University,50.5828,26.2195,47051
+Bangladesh,20.55313,University of Dhaka,90.3925,23.7333,41726
+Bangladesh,20.55313,Bangladesh University of Engineering and Technology,90.3925,23.7276,36734
+Bangladesh,20.55313,North South University,90.4256,23.8151,10715
+Seychelles,31.57895,University of Seychelles,55.4915,-4.6796,42035
+Burkina Faso,20.5868,University of Ouagadougou,-1.5282,12.3697,46500
+Burkina Faso,20.5868,Polytechnic University of Bobo-Dioulasso,-4.2833,11.1667,4016
+Belarus,27.41609,Belarusian State University,27.5615,53.905,38068
+Belarus,27.41609,Belarusian National Technical University,27.5943,53.9176,37873
+Belarus,27.41609,Grodno State University,23.8341,53.6778,24253
+Serbia,42.55736,University of Belgrade,20.4578,44.8186,44945
+Serbia,42.55736,University of Novi Sad,19.8456,45.2542,19759
+Niger,18.02791,Abdou Moumouni University,2.105,13.5116,13337
+Saudi Arabia,36.822,King Saud University,46.6753,24.7136,4749
+Saudi Arabia,36.822,King Fahd University of Petroleum and Minerals,50.1399,26.3113,38017
+Oman,55.73442,Sultan Qaboos University,58.4062,23.5859,40054
+Oman,55.73442,Dhofar University,54.0906,17.039,39872
+Brunei,54.3399,University of Brunei Darussalam,114.887,4.9757,11905
+Palestine,44.27376,Birzeit University,35.1874,31.9589,34113
+Palestine,44.27376,An-Najah National University,35.2542,32.2215,39039
+San Marino,36.0,University of the Republic of San Marino,12.45,43.9333,48065
+Rwanda,35.36145,University of Rwanda,30.0587,-1.9437,21533
+Bermuda,20.37037,Bermuda College,-64.7697,32.3194,21983
+Bosnia and Herzegovina,44.49518,University of Sarajevo,18.4131,43.8563,32655
+Bosnia and Herzegovina,44.49518,University of Banja Luka,17.191,44.7722,5309
+Bosnia and Herzegovina,44.49518,University of Mostar,17.8043,43.3446,35720
+Azerbaijan,35.09903,Baku State University,49.8721,40.3977,13340
+Azerbaijan,35.09903,Khazar University,49.8842,40.3874,1416
+Azerbaijan,35.09903,ADA University,49.8728,40.383,7633
+El Salvador,23.1384,University of El Salvador,-89.2036,13.7203,27870
+El Salvador,23.1384,José Simeón Cañas Central American University,-89.2182,13.7206,6276
+Cape Verde,42.35808,University of Cape Verde,-23.5091,14.9196,29665
+Cape Verde,42.35808,Jean Piaget University of Cape Verde,-23.5115,14.9053,26238
+Monaco,0.0,International University of Monaco,7.4217,43.7342,34686
+Algeria,58.1698,University of Algiers,3.042,36.7529,7763
+Algeria,58.1698,University of Science and Technology Houari Boumediene,3.1685,36.7253,48164
+India,42.73444,Indian Institute of Technology,77.1926,28.545,38167
+India,42.73444,Delhi,,,22552
+India,42.73444,Indian Institute of Technology,77.1926,28.545,2263
+India,42.73444,Bombay,72.9133,19.1334,32663
+India,42.73444,University of Delhi,77.1025,28.7041,19574
+Indonesia,37.43295,University of Indonesia,106.8283,-6.3625,49666
+Indonesia,37.43295,Gadjah Mada University,110.3748,-7.7742,41562
+Indonesia,37.43295,Bandung Institute of Technology,107.61,-6.8915,15512
+Andorra,0.0,University of Andorra,1.5218,42.5063,9569
+Tunisia,55.4091,University of Tunis,10.1815,36.8065,34853
+Tunisia,55.4091,Carthage University,10.3341,36.861,22715
+Mongolia,34.07768,National University of Mongolia,106.9172,47.9185,42474
+Mongolia,34.07768,Mongolian University of Science and Technology,106.9246,47.9177,25847
+Armenia,39.81053,Yerevan State University,44.515,40.1872,32783
+Armenia,39.81053,American University of Armenia,44.5082,40.1878,45716
+Armenia,39.81053,Russian-Armenian University,44.5334,40.1758,36528
+Kyrgyzstan,31.27617,Kyrgyz National University,74.6115,42.8747,30566
+Kyrgyzstan,31.27617,American University of Central Asia,74.6015,42.8322,26965
+Kyrgyzstan,31.27617,Osh State University,72.8085,40.5378,27974
+Lesotho,24.8237,National University of Lesotho,27.7179,-29.4453,48351
+Sri Lanka,40.57054,University of Colombo,79.8607,6.9022,17996
+Sri Lanka,40.57054,University of Peradeniya,80.5937,7.2715,6230
+Sri Lanka,40.57054,University of Sri Jayewardenepura,79.9043,6.8531,45784
+Macao,25.37313,University of Macau,113.5506,22.1942,1552
+Macao,25.37313,Macau University of Science and Technology,113.5708,22.1617,32311
+Madagascar,31.01747,University of Antananarivo,47.5079,-18.8792,10954
+Malaysia,34.16717,University of Malaya,101.6542,3.122,29351
+Malaysia,34.16717,Universiti Teknologi Malaysia,103.6396,1.5556,27489
+Malaysia,34.16717,Universiti Sains Malaysia,100.3014,5.3572,19680
+Colombia,33.40987,University of the Andes,-71.114503,8.418899,26004
+Colombia,33.40987,National University of Colombia,-74.084,4.637,38089
+Colombia,33.40987,Pontifical Xavierian University,-74.0628,4.627,23907
+Moldova,30.5224,Moldova State University,28.8638,47.0105,15946
+Moldova,30.5224,Technical University of Moldova,28.8262,47.0177,33763
+Laos,28.95031,National University of Laos,102.6347,17.9757,42034
+Costa Rica,32.20033,University of Costa Rica,-84.0515,9.936,11281
+Costa Rica,32.20033,National University of Costa Rica,-84.1112,10.002,26415
+Kazakhstan,31.63234,Al-Farabi Kazakh National University,76.909,43.236,33335
+Kazakhstan,31.63234,Kazakh National Technical University,76.926,43.2529,47291
+Kazakhstan,31.63234,Nazarbayev University,71.418,51.089,21227
+Georgia,38.67785,Ivane Javakhishvili Tbilisi State University,44.7833,41.7167,34833
+Georgia,38.67785,Georgian Technical University,44.774,41.7206,33688
+Georgia,38.67785,Ilia State University,44.7835,41.7191,11939
+China,36.71166064956078,Tsinghua University,116.326887,39.999093,12248
+China,36.71166064956078,Peking University,116.305434,39.999667,13091
+China,36.71166064956078,Fudan University,121.499674,31.299017,24466
+Japan,38.5445814124644,University of Tokyo,139.761989,35.712677,2676
+Japan,38.5445814124644,Kyoto University,135.78093,35.026422,42335
+Japan,38.5445814124644,Osaka University,135.523879,34.822353,30750
+Russia,32.1232565752662,Lomonosov Moscow State University,37.530803,55.703264,35563
+Russia,32.1232565752662,Saint Petersburg State University,30.315868,59.939095,35205
+Russia,32.1232565752662,Novosibirsk State University,83.1066,54.8515,8473
+Nigeria,44.27000245300797,University of Lagos,3.384082,6.516667,38688
+Nigeria,44.27000245300797,University of Ibadan,3.902087,7.441634,33799
+Nigeria,44.27000245300797,Obafemi Awolowo University,4.521948,7.518563,21714
+Pakistan,49.14051519557844,National University of Sciences and Technology,72.988178,33.642401,37800
+Pakistan,49.14051519557844,Lahore University of Management Sciences,74.411972,31.471762,14242
+Pakistan,49.14051519557844,University of the Punjab,74.358749,31.542819,30789
+DR Congo,50.477693678629926,University of Kinshasa,15.311471,-4.421931,45703
+DR Congo,50.477693678629926,University of Lubumbashi,27.48444,-11.65556,49919
+Russia,32.12,Tomsk State University,84.948119,56.47667,13805
+Russia,32.12,Kazan Federal University,49.121105,55.790278,18386
+Russia,32.12,Novosibirsk State Technical University,82.92345,55.013722,14731
+Russia,32.12,Ural Federal University,60.605702,56.838926,10951

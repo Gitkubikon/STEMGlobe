@@ -1,0 +1,55 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src", // Added line
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "checkJs": true,
+    "isolatedModules": true,
+    "paths": {
+      "@components/*": [
+        "components/*"
+      ],
+      "@nav/*": [
+        "nav/*"
+      ],
+      "@popups/*": [
+        "popups/*"
+      ],
+      "@routes/*": [
+        "routes/*"
+      ],
+      "@stores/*": [
+        "stores/*"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+      "@windows/*": [
+        "windows/*"
+      ],
+      "@config/*": [
+        "config/*"
+      ],
+      "main/*": [
+        "main"
+      ],
+      "@public/*": [
+        "../public/*"
+      ],
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.js",
+    "src/**/*.svelte", "global.d.ts",
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
